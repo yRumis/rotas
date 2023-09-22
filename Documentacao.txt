@@ -1,0 +1,9 @@
+na (./router) php nos temos uma funcao chamada "load",
+load recebe parametros: $controller as string and $action as string.
+
+$controller vai chamar o controller, param (controller)
+$action 'e um metodo do controller que sera executado.
+
+
+
+ 

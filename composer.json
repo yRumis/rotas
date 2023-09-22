@@ -1,0 +1,15 @@
+{
+    "name": "ramon/rotas",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramon Silva",
+            "email": "ramon.silva109@gmail.com"
+        }
+    ],
+    "require": {}
+}
